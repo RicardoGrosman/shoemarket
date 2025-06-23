@@ -121,46 +121,6 @@ Configurar Entrega:
 Use EntregaMotoboyFactory para criar uma entrega expressa via motoboy.
 Exemplo: Entrega entrega = new EntregaMotoboyFactory().criarEntrega();.
 
-
-
-Estrutura do Projeto
-shoemarket/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com/
-│   │   │   │   ├── shoemarket/
-│   │   │   │   │   ├── Cliente.java
-│   │   │   │   │   ├── Pedido.java
-│   │   │   │   │   ├── PedidoState.java
-│   │   │   │   │   ├── PedidoProcessando.java
-│   │   │   │   │   ├── PedidoEmTransporte.java
-│   │   │   │   │   ├── PedidoEntregue.java
-│   │   │   │   │   ├── PedidoValidador.java
-│   │   │   │   │   ├── ValidadorEndereco.java
-│   │   │   │   │   ├── ValidadorCPF.java
-│   │   │   │   │   ├── ValidadorPagamento.java
-│   │   │   │   │   ├── PedidoDados.java
-│   │   │   │   │   ├── Calcado.java
-│   │   │   │   │   ├── TenisBase.java
-│   │   │   │   │   ├── BotaBase.java
-│   │   │   │   │   ├── CadarcoColorido.java
-│   │   │   │   │   ├── SolaExtra.java
-│   │   │   │   │   ├── CalcadoFactory.java
-│   │   │   │   │   ├── TenisFactory.java
-│   │   │   │   │   ├── BotaFactory.java
-│   │   │   │   │   ├── Transporte.java
-│   │   │   │   │   ├── Transportadora.java
-│   │   │   │   │   ├── Motoboy.java
-│   │   │   │   │   ├── Entrega.java
-│   │   │   │   │   ├── EntregaExpressa.java
-│   │   │   │   │   ├── EntregaFactory.java
-│   │   │   │   │   ├── EntregaMotoboyFactory.java
-│   │   │   │   │   ├── Estoque.java
-│   │   │   │   │   ├── Main.java
-├── README.md
-├── pom.xml (opcional, se usar Maven)
-
 Criando o Repositório no GitHub
 
 Acesse o GitHub:
