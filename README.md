@@ -187,25 +187,3 @@ git branch -M main
 git remote add origin https://github.com/seu-usuario/shoemarket.git
 git push -u origin main
 
-
-
-
-
-Contribuição
-
-Faça um fork do repositório.
-Crie uma branch para sua feature:git checkout -b feature/nova-funcionalidade
-
-
-Commit suas alterações:git commit -m "Adiciona nova funcionalidade"
-
-
-Envie para o repositório remoto:git push origin feature/nova-funcionalidade
-
-
-Abra um Pull Request no GitHub.
-
-Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para detalhes.
-Contato
-Para dúvidas ou sugestões, entre em contato via seu-email@exemplo.com ou abra uma issue no repositório.
